@@ -1,0 +1,362 @@
+[
+  {
+    "held_out": "0cGdk9",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.5
+  },
+  {
+    "held_out": "0cGdk9",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.45148631029986963
+  },
+  {
+    "held_out": "0cGdk9",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.44157434402332363
+  },
+  {
+    "held_out": "0cGdk9",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.4271441860465116
+  },
+  {
+    "held_out": "2IU8mi",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.7438427167113494
+  },
+  {
+    "held_out": "2IU8mi",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.7365010637900788
+  },
+  {
+    "held_out": "2IU8mi",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.7342045454545454
+  },
+  {
+    "held_out": "2IU8mi",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.7344332298136645
+  },
+  {
+    "held_out": "2IhVOz",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.893951899634295
+  },
+  {
+    "held_out": "2IhVOz",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.8922619047619047
+  },
+  {
+    "held_out": "2IhVOz",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.8908785113616031
+  },
+  {
+    "held_out": "2IhVOz",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.8920804232804231
+  },
+  {
+    "held_out": "AB2PeX",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.6788115159394202
+  },
+  {
+    "held_out": "AB2PeX",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.6728253968253968
+  },
+  {
+    "held_out": "AB2PeX",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.6715253184218701
+  },
+  {
+    "held_out": "AB2PeX",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.6662309368191721
+  },
+  {
+    "held_out": "AbzsOg",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.9560889528508774
+  },
+  {
+    "held_out": "AbzsOg",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.9551489866780045
+  },
+  {
+    "held_out": "AbzsOg",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.9557280966482002
+  },
+  {
+    "held_out": "AbzsOg",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.9642279851008504
+  },
+  {
+    "held_out": "BYJoWR",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.6760680431112842
+  },
+  {
+    "held_out": "BYJoWR",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.6750518686174656
+  },
+  {
+    "held_out": "BYJoWR",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.6754946199236376
+  },
+  {
+    "held_out": "BYJoWR",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.6647043010752688
+  },
+  {
+    "held_out": "FIyfdR",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.4994729192786791
+  },
+  {
+    "held_out": "FIyfdR",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.5
+  },
+  {
+    "held_out": "FIyfdR",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.49575140449438204
+  },
+  {
+    "held_out": "FIyfdR",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.48375062178743156
+  },
+  {
+    "held_out": "FYbcap",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.24510174212737829
+  },
+  {
+    "held_out": "FYbcap",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.23902804538642686
+  },
+  {
+    "held_out": "FYbcap",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.762615091353762
+  },
+  {
+    "held_out": "FYbcap",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.7617093348967495
+  },
+  {
+    "held_out": "PuPVlx",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.5914747264200103
+  },
+  {
+    "held_out": "PuPVlx",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.586858953561309
+  },
+  {
+    "held_out": "PuPVlx",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.587090330522844
+  },
+  {
+    "held_out": "PuPVlx",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.591593416237966
+  },
+  {
+    "held_out": "QZTsn6",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.5310423184074955
+  },
+  {
+    "held_out": "QZTsn6",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.5340959049092241
+  },
+  {
+    "held_out": "QZTsn6",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.4534832059712103
+  },
+  {
+    "held_out": "QZTsn6",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.4468974386453756
+  },
+  {
+    "held_out": "VopvKx",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.8208628610350275
+  },
+  {
+    "held_out": "VopvKx",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.8251971602863932
+  },
+  {
+    "held_out": "VopvKx",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.823493569158309
+  },
+  {
+    "held_out": "VopvKx",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.8097815371268584
+  },
+  {
+    "held_out": "dCsWjQ",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.4905845014546416
+  },
+  {
+    "held_out": "dCsWjQ",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.49272125723738625
+  },
+  {
+    "held_out": "dCsWjQ",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.48742483660130714
+  },
+  {
+    "held_out": "dCsWjQ",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.4896600629348934
+  },
+  {
+    "held_out": "gNX5yb",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.6015326626893986
+  },
+  {
+    "held_out": "gNX5yb",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.598581670419546
+  },
+  {
+    "held_out": "gNX5yb",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.5965145965145965
+  },
+  {
+    "held_out": "gNX5yb",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.5737268518518519
+  },
+  {
+    "held_out": "hnetKS",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.7584584395555974
+  },
+  {
+    "held_out": "hnetKS",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.7579043572769488
+  },
+  {
+    "held_out": "hnetKS",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.7551024077970186
+  },
+  {
+    "held_out": "hnetKS",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.750293121417405
+  },
+  {
+    "held_out": "i4oK0F",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.9370339177704616
+  },
+  {
+    "held_out": "i4oK0F",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.936512130674994
+  },
+  {
+    "held_out": "i4oK0F",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.9486507728582656
+  },
+  {
+    "held_out": "i4oK0F",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.9426182965299684
+  },
+  {
+    "held_out": "iDpl28",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.9888311688311688
+  },
+  {
+    "held_out": "iDpl28",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.988458548448183
+  },
+  {
+    "held_out": "iDpl28",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.988269059444234
+  },
+  {
+    "held_out": "iDpl28",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.9873993829023299
+  },
+  {
+    "held_out": "jyC0j3",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.9591158059467919
+  },
+  {
+    "held_out": "jyC0j3",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.9579028925619835
+  },
+  {
+    "held_out": "jyC0j3",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.9598412499723882
+  },
+  {
+    "held_out": "jyC0j3",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.9607897931203115
+  },
+  {
+    "held_out": "oLNpHd",
+    "calib_seconds": 15,
+    "bandpower_baseline": 0.5230843606478124
+  },
+  {
+    "held_out": "oLNpHd",
+    "calib_seconds": 30,
+    "bandpower_baseline": 0.5225419816614785
+  },
+  {
+    "held_out": "oLNpHd",
+    "calib_seconds": 60,
+    "bandpower_baseline": 0.4742506319971109
+  },
+  {
+    "held_out": "oLNpHd",
+    "calib_seconds": 120,
+    "bandpower_baseline": 0.5130266418835192
+  }
+]
